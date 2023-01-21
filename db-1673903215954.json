@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Guitarra nylon",
+      "precio": 500,
+      "src": "https://media.fanaticguitars.com/2021/02/alhambra-4f-pure-golpeador-6-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Guitar classic",
+      "precio": 800,
+      "src": "https://media.fanaticguitars.com/2021/02/alhambra-4p-1-4-300x300.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Acoustic Guitar",
+      "precio": 950,
+      "src": "https://compasuno.com.ar/wp-content/uploads/2022/09/D_691871-MLA51506823958_092022-F-300x300.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "washburn Guitar",
+      "precio": 150,
+      "src": "https://shoppingmusic.co/wp-content/uploads/2020/08/Guitarra-Cort-X300-BLB-2-300x300.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Concerto Guitar",
+      "precio": 320,
+      "src": "https://i0.wp.com/www.inovamusicnet.com/wp-content/uploads/2021/04/31rr62qyWLL._AC_US800_.jpg?fit=300%2C300&ssl=1"
+    },
+    {
+      "id": 6,
+      "nombre": "Fender Stratocaster",
+      "precio": 790,
+      "src": "https://luthiergm.com/nueva/wp-content/uploads/2019/04/Luthier-Custom-Guitar-300x300.jpg"
+    }
+  ],
+  "carrito": []
+}
